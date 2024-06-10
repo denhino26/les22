@@ -1,0 +1,52 @@
+@media only screen and (min-width: 1200px) {
+    [class*="col-"]{
+        width: 100%;
+        float: left;
+        
+    }
+    }
+    .col-1{width: 8.33%}
+    .col-2{width: 16.66%;}
+    .col-3{width: 25%;}
+    .col-4{width: 33.33%;}
+    .col-5{width: 41.66%;}
+    .col-6{width: 50%;}
+    .col-7{width: 58.33%;}
+    .col-8{width: 66.66%;}
+    .col-9{width: 75%;}
+    .col-10{width: 83.33%;}
+    .col-11{width: 91.66%;}
+
+    .tekstheader{
+        text-align: center;    
+        font-family: cursive;
+
+    }
+    a{
+        text-decoration: none;
+        color: #3d4d3e;
+        margin: 50px;   
+    }
+    a:hover{
+        color: #ffffff;
+    }
+    input[type="text"], input[type="email"], textarea, select, button{
+        display: block;
+        margin-block: 15px 15px;
+        text-align: center;
+        border-color: rgb(0, 0, 0);
+        border-width: 2px;
+        
+    }
+    h2{
+        color: #3d4d3e;
+        text-align: center;
+        margin-top: 10px;
+        font-family: cursive;
+    }
+    h3{
+        color: #3d4d3e;
+        margin-top: 10px;
+        font-family: cursive;
+
+    }
